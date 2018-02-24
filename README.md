@@ -16,7 +16,7 @@
 
 ```
 vue2.0 + vuex + vue-router2.0 + es6 + axios + vux
-```
+```       
 
 ## 文件结构 (File structure)
 
